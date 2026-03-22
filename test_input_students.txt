@@ -1,0 +1,9 @@
+No of students: 2
+Student 1: John
+Marks of subject 1: 85
+Marks of subject 2: 90
+Marks of subject 3: 88
+Student 2: Sarah
+Marks of subject 1: 78
+Marks of subject 2: 82
+Marks of subject 3: 80
