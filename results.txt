@@ -1,0 +1,3 @@
+{'name': 'Shyam', 'marks': [98.0, 78.0, 89.0], 'average': 88.33333333333333, 'grade': 'B', 'comment': 'Good job!'}
+{'name': 'Ram', 'marks': [89.0, 76.0, 57.0], 'average': 74.0, 'grade': 'C', 'comment': 'You can do better!'}
+{'name': 'Rita', 'marks': [89.0, 78.0, 88.0], 'average': 85.0, 'grade': 'B', 'comment': 'Good job!'}

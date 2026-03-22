@@ -2,8 +2,6 @@
 __pycache__/
 *.pyc
 
-# Output files
-results.txt
 
 # OS files
 .DS_Store
